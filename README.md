@@ -1,2 +1,5 @@
 # Thumbs-Classifier
-Thumbs Classifier using CNN - TensorFlorw
+Thumbs Up/Down Classifier using CNN - TensorFlorw
+
+Instructions:
+
