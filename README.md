@@ -12,4 +12,5 @@ Instructions for testing only:
 2. Execute All (CTRL+F9)
 
 Output Example:
+
 ![alt text](https://github.com/Eximmius/Thumbs-Classifier/raw/master/Output/output.png "Output")
