@@ -9,6 +9,7 @@ Requires Google Account
 1. Open [Train_Thumbs_Classifier.ipynb](https://colab.research.google.com/github/Eximmius/Thumbs-Classifier/blob/master/Train_Thumbs_Classifier.ipynb)
 2. Execute All (CTRL+F9) 
 
+
 #### Instructions for testing only:
 Requires Google Account
 1. Open [Thumbs_Classifier_Test.ipynb](https://colab.research.google.com/github/Eximmius/Thumbs-Classifier/blob/master/Thumbs_Classifier_Test.ipynb)
